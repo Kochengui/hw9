@@ -1,0 +1,15 @@
+E:\Users\X\Desktop\result\f(akker)\bin\Debug\net6.0\f(akker).exe
+E:\Users\X\Desktop\result\f(akker)\bin\Debug\net6.0\f(akker).deps.json
+E:\Users\X\Desktop\result\f(akker)\bin\Debug\net6.0\f(akker).runtimeconfig.json
+E:\Users\X\Desktop\result\f(akker)\bin\Debug\net6.0\f(akker).dll
+E:\Users\X\Desktop\result\f(akker)\bin\Debug\net6.0\f(akker).pdb
+E:\Users\X\Desktop\result\f(akker)\obj\Debug\net6.0\f(akker).csproj.AssemblyReference.cache
+E:\Users\X\Desktop\result\f(akker)\obj\Debug\net6.0\f(akker).GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\X\Desktop\result\f(akker)\obj\Debug\net6.0\f(akker).AssemblyInfoInputs.cache
+E:\Users\X\Desktop\result\f(akker)\obj\Debug\net6.0\f(akker).AssemblyInfo.cs
+E:\Users\X\Desktop\result\f(akker)\obj\Debug\net6.0\f(akker).csproj.CoreCompileInputs.cache
+E:\Users\X\Desktop\result\f(akker)\obj\Debug\net6.0\f(akker).dll
+E:\Users\X\Desktop\result\f(akker)\obj\Debug\net6.0\refint\f(akker).dll
+E:\Users\X\Desktop\result\f(akker)\obj\Debug\net6.0\f(akker).pdb
+E:\Users\X\Desktop\result\f(akker)\obj\Debug\net6.0\f(akker).genruntimeconfig.cache
+E:\Users\X\Desktop\result\f(akker)\obj\Debug\net6.0\ref\f(akker).dll
